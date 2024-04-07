@@ -15,6 +15,7 @@ def hw1_0():
     #-------------------------------
     return "小明和小華共花了" + cost + "元買水果"
 ```
+
 ```python
 def hw1_1():
     str1 = "abcdefghijk"
@@ -29,6 +30,7 @@ def hw1_1():
     #-------------------------------
     return output
 ```
+
 ```python
 def hw1_2():
     output = 0
@@ -43,6 +45,7 @@ def hw1_2():
     #-------------------------------
     return output
 ```
+
 ```python
     def hw1_3():
     output = ""
